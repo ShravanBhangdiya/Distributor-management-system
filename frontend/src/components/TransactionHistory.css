@@ -1,0 +1,51 @@
+.transaction-history {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+}
+
+input {
+  margin-right: 10px;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.6rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.retailer-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.transaction-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.transaction-table th,
+.transaction-table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.transaction-table th {
+  background-color: #f1f1f1;
+}
