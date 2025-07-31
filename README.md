@@ -21,22 +21,22 @@ A SQL-based DBMS project to efficiently manage and analyze operations between pr
 
 ## 1.Distributor Dashboard
 
-![Distributor Dashboard](UI_images/Distributor_Dashboard.png)
+![Distributor Dashboard](UI_Images/Distributor_Dashboard.png)
 ## 2.🧾 Add Retailer 
 
 ![Add Retailer](UI_Images/AddRetailer.png)
 ## 3.🛒 Record Purchase 
 
-![Record Purchase](UI_images/RecordPurchase.png)
+![Record Purchase](UI_Images/RecordPurchase.png)
 ### 4.💵 Record Payment
 
-![Record Payment](UI_images/RecordPayment.png)
+![Record Payment](UI_Images/RecordPayment.png)
 ### 5.📜 Retailer Transaction History 
 
-![Retailer Transaction History](UI_images/ReatailerTransactionHistory.png)
+![Retailer Transaction History](UI_Images/ReatailerTransactionHistory.png)
 ### 6.📋 Show All Retailers 
 
-![Show All Retailers](UI_images/ShowAllRetailers.png)
+![Show All Retailers](UI_Images/ShowAllRetailers.png)
 
 
 
