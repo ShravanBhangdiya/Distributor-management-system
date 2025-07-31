@@ -24,7 +24,7 @@ A SQL-based DBMS project to efficiently manage and analyze operations between pr
 ![Distributor Dashboard](UI_images/Distributor_Dashboard.png)
 ## 2.🧾 Add Retailer 
 
-![Add Retailer](UI_images/AddRetailer.png)
+![Add Retailer](UI_Images/AddRetailer.png)
 ## 3.🛒 Record Purchase 
 
 ![Record Purchase](UI_images/RecordPurchase.png)
